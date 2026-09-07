@@ -1,4 +1,4 @@
-# AGENTS.md!
+# AGENTS.md!!!!
 
 Juego tipo PacMan en JS/HTML/CSS vanilla, sin build ni dependencias. El proyecto existe para aprender **Spec Driven Development**; toda comunicación, comentarios y specs van en español.
 
